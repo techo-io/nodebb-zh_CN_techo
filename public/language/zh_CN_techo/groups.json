@@ -12,10 +12,10 @@
     "invited.none": "暂时没有接受邀请的成员",
     "invited.uninvite": "取消邀请",
     "invited.search": "选择用户加入小组",
-    "invited.notification_title": "You have been invited to join <strong>%1</strong>",
-    "request.notification_title": "Group Membership Request from <strong>%1</strong>",
-    "request.notification_text": "<strong>%1</strong> has requested to become a member of <strong>%2</strong>",
-    "cover-instructions": "拖放照片到此位置，然后点击 <strong>保存</strong>",
+    "invited.notification_title": "您已被邀请加入 <strong>%1</strong>",
+    "request.notification_title": "来自 <strong>%1</strong> 的小组成员请求",
+    "request.notification_text": "<strong>%1</strong> 已被邀请加入 <strong>%2</strong>",
+	"cover-instructions": "拖放照片到此位置，然后点击 <strong>保存</strong>",
     "cover-change": "更改",
     "cover-save": "保存",
     "cover-saving": "正在保存",
@@ -26,6 +26,7 @@
     "details.has_no_posts": "此小组的会员尚未发表任何帖子。",
     "details.latest_posts": "最新帖子",
     "details.private": "私有",
+    "details.disableJoinRequests": "禁止申请加入小组",
     "details.grant": "授予/取消管理权",
     "details.kick": "踢出小组",
     "details.owner_options": "小组管理",
@@ -49,5 +50,6 @@
     "membership.join-group": "加入小组",
     "membership.leave-group": "退出小组",
     "membership.reject": "拒绝",
-    "new-group.group_name": "组名: "
+    "new-group.group_name": "组名: ",
+    "upload-group-cover": "上传组封面"
 }
